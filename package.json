@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-base",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khovanov/reactjs-base.git"
+  },
+  "author": "Khovanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khovanov/reactjs-base/issues"
+  },
+  "homepage": "https://github.com/Khovanov/reactjs-base#readme"
+}
